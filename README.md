@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Hadi Aghapour
 
-<!--
-**Hadi-agp/Hadi-Agp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student**  
+⚡ **Focus:** C++ | Data Structures & Algorithms | Competitive Programming  
+🎯 **Goal:** Mastering Algorithmic Problem Solving & System Architecture
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- **Core Language:** C++
+- **Focus Areas:** Algorithms, Data Structures, Problem Solving
+- **Tools:** Git, VS Code, Linux
+
+---
+
+### 📌 Current Focus
+- 📖 Deepening C++ concepts & memory management
+- 🧩 Problem-solving on LeetCode / Codeforces
+- 🏆 Preparing for Competitive Programming Olympiads & Contests
+
+---
+
+### 📬 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/hadi-aghapour-54a887423)
+- ✉️ [Email](mailto:hadi41301@gmail.com)
